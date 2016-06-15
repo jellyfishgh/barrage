@@ -1,0 +1,25 @@
+{
+  "name": "barrage",
+  "version": "1.0.0",
+  "description": "barrage chat room",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/barrage.git"
+  },
+  "keywords": [
+    "barrage",
+    "chatroom",
+    "websocket"
+  ],
+  "author": "jellyfishgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/barrage/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/barrage#readme"
+}
